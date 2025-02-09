@@ -1,0 +1,30 @@
+{
+  "name": "port_backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tanvir-asif19/Port_Backend.git"
+  },
+  "keywords": [
+    "portfolio_backend",
+    "node",
+    "mern"
+  ],
+  "author": "Tanvir Asif (tanvir_asif19)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tanvir-asif19/Port_Backend/issues"
+  },
+  "homepage": "https://github.com/tanvir-asif19/Port_Backend#readme",
+  "description": "",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "mongodb": "^6.13.0"
+  }
+}
