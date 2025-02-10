@@ -24,7 +24,7 @@ async function connectDB() {
 }
 //check get
 app.get('/', async(req,res)=>{
-    res.send("Please visit https://tanvir-asif.web.app");
+    res.send("The server is working perfectly. Please visit https://tanvir-asif.web.app for more!!");
 })
 // Get Personal Details
 app.get("/personal", async (req, res) => {
